@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_wJ4nAd4OEeqb7r070u1A4g" label="ESB_DEMO" description="" language="java" technicalLabel="ESB_DEMO" creationDate="2020-08-14T14:44:19.000+0530" author="_wJ4nAt4OEeqb7r070u1A4g" productVersion="Talend Data Fabric-7.2.1.20200715_1053-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/pmanjunath-talend/talend_7_2_esb.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_wJ4nAd4OEeqb7r070u1A4g" label="ESB_DEMO" description="" language="java" technicalLabel="ESB_DEMO" creationDate="2020-08-14T14:44:19.000+0530" author="_wJ4nAt4OEeqb7r070u1A4g" productVersion="Talend Data Fabric-7.2.1.20200715_1053-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/pmanjunath-talend/talend_7_2_esb.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_wLE50N4OEeqb7r070u1A4g" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_wJ4nAt4OEeqb7r070u1A4g" login="pmanjunath@talend.com" firstName="Pratheek" lastName="Manjunath" type="DI" additionnalData="{}"/>
